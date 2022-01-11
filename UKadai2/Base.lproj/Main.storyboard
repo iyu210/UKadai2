@@ -27,9 +27,6 @@
                                     <segment title="×"/>
                                     <segment title="÷"/>
                                 </segments>
-                                <connections>
-                                    <action selector="segmentedControlAction:" destination="BYZ-38-t0r" eventType="valueChanged" id="OhE-dm-5pR"/>
-                                </connections>
                             </segmentedControl>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="qn2-fb-wxv">
                                 <rect key="frame" x="10" y="168" width="394" height="34"/>
